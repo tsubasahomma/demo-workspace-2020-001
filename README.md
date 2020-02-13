@@ -5,6 +5,8 @@
 1. [Freemarkerのリソース変更チェックを無効化するOSGi設定ファイル]
 2. [Clayベースのデモ用テーマ]
 
+このワークスペースの作成手順を[Qiitaの記事]にしたので、興味のある方は併せて参照してみてください。
+
 # ツールとバージョンの前提
 
 **OS**
@@ -46,6 +48,7 @@ $ gulp init deploy # ワークスペースに展開されたバンドルへデ�
 ```
 <!--  -->
 [Liferayユーザー会 東京 : Liferay 7.2でのサイト構築ベストプラクティス・ハンズオン]:https://liferay.doorkeeper.jp/events/102935
+[Qiitaの記事]:https://qiita.com/TsubasaHomma/items/4c037024040e0bb636b4
 [Clayベースのデモ用テーマ]:https://github.com/tsubasahomma/demo-workspace-2020-001/tree/master/themes/my-liferay-theme
 [Freemarkerのリソース変更チェックを無効化するOSGi設定ファイル]:https://github.com/tsubasahomma/demo-workspace-2020-001/blob/master/configs/local/osgi/configs/com.liferay.portal.template.freemarker.configuration.FreeMarkerEngineConfiguration.config
 
