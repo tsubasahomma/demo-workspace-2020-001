@@ -1,24 +1,39 @@
 {
-	"devDependencies": {
-		"compass-mixins": "0.12.10",
-		"gulp": "3.9.1",
-		"liferay-frontend-common-css": "1.0.4",
-		"liferay-frontend-theme-styled": "4.0.7",
-		"liferay-frontend-theme-unstyled": "4.0.4",
-		"liferay-theme-tasks": "^9.4.3",
-		"liferay-font-awesome": "3.4.0"
-	},
-	"keywords": [
-		"liferay-theme"
-	],
-	"liferayTheme": {
-		"baseTheme": "styled",
-		"fontAwesome": true,
-		"screenshot": "",
-		"templateLanguage": "ftl",
-		"version": "7.2"
-	},
-	"main": "package.json",
-	"name": "my-liferay-theme",
-	"version": "1.0.0"
+  "devDependencies": {
+    "compass-mixins": "0.12.10",
+    "gulp": "3.9.1",
+    "liferay-frontend-common-css": "1.0.4",
+    "liferay-frontend-theme-styled": "4.0.7",
+    "liferay-frontend-theme-unstyled": "4.0.4",
+    "liferay-theme-tasks": "^9.4.3",
+    "liferay-font-awesome": "3.4.0"
+  },
+  "keywords": [
+    "liferay-theme"
+  ],
+  "liferayTheme": {
+    "baseTheme": "styled",
+    "fontAwesome": true,
+    "screenshot": "",
+    "templateLanguage": "ftl",
+    "version": "7.2"
+  },
+  "main": "package.json",
+  "name": "my-liferay-theme",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tsubasa Homma",
+  "license": "MIT",
+  "description": "Demo theme for https://liferay.doorkeeper.jp/events/102935",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsubasahomma/demo-workspace-2020-001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsubasahomma/demo-workspace-2020-001/issues"
+  },
+  "homepage": "https://github.com/tsubasahomma/demo-workspace-2020-001#readme"
 }
