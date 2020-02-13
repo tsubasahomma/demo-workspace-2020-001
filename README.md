@@ -10,7 +10,8 @@
 # ツールとバージョンの前提
 
 **OS**
-macOS Catalina 10.15.2
+
+macOS Catalina 10.15.3
 
 **Java**
 
